@@ -1,4 +1,4 @@
-package com.estudy.ex02_javacodedi;
+package com.study.ex02_javacodedi;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
